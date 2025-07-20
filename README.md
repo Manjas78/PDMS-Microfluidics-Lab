@@ -21,8 +21,8 @@ Covering everything from CAD design to PDMS casting, post‑processing, optical 
 | `cad_design.png`   | AutoCAD design (exercise layout with 300 µm channels, mixers, Tesla valves)     |
 | `final_chip.png`   | Final PDMS chip assembled with tubing and filled with water for leak‑testing    |
 
-![AutoCAD Design](cad_design.jpg)  
+![AutoCAD Design](cad_design.png)  
 *Figure 1: AutoCAD exercise layout.*
 
-![Assembled Chip](final_chip.png)  
+![Assembled Chip](final_chip.jpg)  
 *Figure 2: Final PDMS chip in water‑fill test.*
